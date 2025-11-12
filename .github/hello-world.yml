@@ -14,5 +14,3 @@ jobs:
          steps:
          - name: echo text
            run: echo "echo "Hello, world!"
-
-   
